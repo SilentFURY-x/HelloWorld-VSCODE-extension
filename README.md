@@ -25,11 +25,11 @@ Make sure you have [Node.js](https://nodejs.org/) and [VS Code](https://code.vis
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/SilentFURY-x/HelloWorld-VSCODE-extension.git
     ```
 2.  Navigate into the project directory:
     ```bash
-    cd your-repo-name
+    cd HelloWorld-VSCODE-extension
     ```
 3.  Install dependencies:
     ```bash
@@ -41,7 +41,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [VS Code](https://code.vis
 1.  Open this project folder in **Visual Studio Code**.
 2.  Press **F5** to open a new **Extension Development Host** window.
 3.  In the new window, press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS) to open the Command Palette.
-4.  Type **"Hello World"** and press Enter.
+4.  Type **"Hello Bratukha"** and press Enter.
 5.  You should see a notification popup in the bottom right corner!
 
 ## 📂 Project Structure
